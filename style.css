@@ -1,0 +1,22 @@
+.title{
+  font-size: 50px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.buttonHolder{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: red;
+  height: 500px
+}
+
+.response{
+  height: 300px;
+  width: 300px;
+  font-size: 40px;  
+
+}
